@@ -1,9 +1,9 @@
-# adventure
-ML adventure
+# ML adventure
 
-學米的 Python/ML 課程資源
+本 repo 包含 ML adventure 課程中所需使用的 colab 檔案，以及程式實作課中使用的資料檔案。
 
-# colab notebooks
+
+## colab notebooks
 
 在這個 repository 裏面，有兩種檔案，第一是課程中使用的 colab notebooks，data 子目錄下則包含所有實做練習需要用到的資料檔案：
 
@@ -20,7 +20,7 @@ ML adventure
 * xm - time series.ipynb                  時間序列
 * xm - titanic.ipynb                      以鐵達尼資料做一次綜合練習  
 
-# data 目錄說明
+## data 目錄說明
 
 - data/apriori 子目錄裏面包含 instacart 公司提供的公開資料集，其中兩個檔案超過 25 MB，無法順利上傳，所以目錄裏面的說明檔提供了直接下載檔案的 Dropbox 連結
 - taiwan_aug.csv 維護到 2020/08/26 止，未來如果有新的版本，請看該檔案的上傳日期
