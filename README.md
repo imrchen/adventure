@@ -7,7 +7,7 @@
 
 在這個 repository 裏面，有兩種檔案，第一是課程中使用的 colab notebooks，data 子目錄下則包含所有實做練習需要用到的資料檔案：
 
-* xm - ML adventures.ipynb                介紹 colab 以及相關議題
+* xm - ML adventures.ipynb                介紹 colab 以及與colab相關的進階技巧
 * xm - new oil.ipynb                      資料是新時代的石油：資料處理基本技巧以及下載疫情資料示範
 * xm - wine quality.ipynb                 用分類技巧判斷紅酒品質
 * xm - mnist.ipynb                        手寫數字辨識
