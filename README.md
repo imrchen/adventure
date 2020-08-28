@@ -22,5 +22,6 @@
 
 ## data 目錄說明
 
-- data/apriori 子目錄裏面包含 instacart 公司提供的公開資料集，其中兩個檔案超過 25 MB，無法順利上傳，所以目錄裏面的說明檔提供了直接下載檔案的 Dropbox 連結
+- data 目錄包含所有實作單元所使用的資料檔案
+- data/apriori 子目錄則是 instacart 公司提供的[公開資料集](https://www.instacart.com/datasets/grocery-shopping-2017)，但是其中兩個檔案超過 25 MB，無法上傳到 GitHub，所以該目錄裏的說明檔提供了直接下載檔案的 Dropbox 連結
 - taiwan_aug.csv 維護到 2020/08/26 止，未來如果有新的版本，請看該檔案的上傳日期
