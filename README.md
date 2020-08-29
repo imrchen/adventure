@@ -1,6 +1,6 @@
 # ML adventure
 
-本 repo 包含 ML adventure 課程中所需使用的 colab 檔案，以及程式實作課中使用的資料檔案。
+本 repo 包含 ML adventure 課程中所需使用的 colab 檔案，以及程式實作課中使用的資料檔案。這些檔案在 DropBox 還有一份[副本](https://reurl.cc/QdMz09)。
 
 
 ## colab notebooks
